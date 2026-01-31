@@ -1,7 +1,7 @@
 <script lang="ts">
     import favicon from "$lib/assets/favicon.svg";
     import "../app.scss";
-    import tag from "$lib/assets/splattag.png"
+    import tag from "$lib/assets/splashtag.png";
     let { children } = $props();
 </script>
 
@@ -15,13 +15,9 @@
 
 <nav>
     <div>
-        <h2>/!\ under construction /!\</h2>
+        <h2 style:color="yellow">/!\ under construction /!\</h2>
         <a href="https://haj-links.vercel.app">
-            <img
-                src={tag}
-                alt="tag"
-                style:width="250px"
-            /></a
+            <img src={tag} alt="tag" style:width="250px" /></a
         >
     </div>
 </nav>
