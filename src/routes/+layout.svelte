@@ -14,6 +14,7 @@
 
 <nav>
     <div>
+        <h2>/!\ under construction /!\</h2>
         <a href="https://haj-links.vercel.app">
             <img
                 src="/src/lib/assets/splashtag.png"
