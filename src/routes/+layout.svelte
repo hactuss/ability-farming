@@ -14,9 +14,9 @@
 </svelte:head>
 
 <nav>
+    <h2 style:color="yellow">/!\ under construction /!\</h2>
     <div>
-        <h2 style:color="yellow">/!\ under construction /!\</h2>
-        <a href="https://haj-links.vercel.app">
+        <a href="https://haj-links.vercel.app" title="dd">
             <img src={tag} alt="tag" style:width="250px" /></a
         >
     </div>
