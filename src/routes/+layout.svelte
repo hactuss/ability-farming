@@ -14,7 +14,15 @@
 </svelte:head>
 
 <nav>
-    <h2 style:color="yellow">/!\ under construction /!\</h2>
+    <div><h2 style:color="yellow">/!\ under construction</h2></div>
+    <div>
+        <img
+            src="https://media.tenor.com/9TsiJq--SsEAAAAj/doge-dance.gif"
+            alt="doggo"
+            style:width="100px"
+            class="doggo"
+        />
+    </div>
     <div>
         <a href="https://haj-links.vercel.app" title="dd">
             <img src={tag} alt="tag" style:width="250px" /></a
