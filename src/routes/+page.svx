@@ -89,7 +89,7 @@ Here's another table which shows **gear specific abilities**. I added this so yo
 
 
 Thank you for reading. It took some time to finish this and I just wanna say that the Splatoon community is awesome.
-- [The repository on Github if you are interested](https://github.com/hactuss/) and the tools I used:
+- [The repository on Github if you are interested](https://github.com/hactuss/ability-farming) and the tools I used:
 - [Obsidian - markdown editor](https://obsidian.md/)
 - [Svelte - a. Javascript framework](https://svelte.dev)
 - [mdsvex - for markdown on svelte](https://mdsvex.pngwn.io/)
